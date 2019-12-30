@@ -29,5 +29,6 @@ public class Main{
         boolean ucup = true;
         System.out.println("nilai boolean = "+ ucup);
         System.out.println("nilai boolean = "+ !ucup);
+        // negasi ! tdk bisa diaply di int, -td bisa diaply di boolean
     }
 }
