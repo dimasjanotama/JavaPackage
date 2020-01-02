@@ -76,7 +76,7 @@ public class Main{
                 System.out.println("hasil = "+hasil);
                 break;
             default:
-                System.out.println("operator"+operator+"tidak ditemukan");
+                System.out.println("operator "+operator+" tidak ditemukan");
 
         }
     }
