@@ -32,5 +32,26 @@ public class Main{
 
         System.out.println("---------------INI AKHIR PROGRAM");
 
+        // FOR LOOP
+        int c;
+        int d=0;
+        int e=0;
+
+        System.out.println("---------------INI AWAL PROGRAM");
+        System.out.println("-----LOOP PERTAMA");
+        for(c=0; c<10; c++){
+            System.out.println(c);
+        }
+        System.out.println("-----LOOP KEDUA");
+        for(; d<10; d++){
+            System.out.println(d);
+        }
+        // System.out.println("-----LOOP KETIGA(INFINITE)");
+        // for(; true; ){
+        //     System.out.println(e);
+        // }
+        System.out.println("---------------INI AKHIR PROGRAM");
+
+
     }
 }
