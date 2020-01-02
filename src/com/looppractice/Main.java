@@ -15,5 +15,9 @@ public class Main{
             System.out.println("ditambah "+awal+" menjadi "+total);
         }
         System.out.println("Nilai total = "+total);
+
+        // FIBONACCI
+
+        
     }
 }
