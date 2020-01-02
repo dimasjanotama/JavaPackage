@@ -5,6 +5,7 @@ import java.util.Scanner;
 public class Main{
     public static void main(String[] args){
         // a operator b
+        // IF ELSE CALCULATOR
 
         Scanner inputUser;
         float a,b,hasil;
